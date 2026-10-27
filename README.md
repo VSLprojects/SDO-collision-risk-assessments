@@ -1,1 +1,1 @@
-Online programming for the article, "A Novel Risk Assessment Methodology for Collisions Between Operational Spacecraft and Hazardous Space Debris Objects in Low Earth Orbit Using A Machine Learning Classifier".
+Online programming for "A collision-risk classification methodology for spacecraft and space debris objects using random forests".
